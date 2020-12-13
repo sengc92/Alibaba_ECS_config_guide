@@ -6,16 +6,16 @@ Although we can use the web console, it is slow and non-responsive compare to cl
 
 1. Create an ECS instance
 ![]('https://i.ibb.co/NSmWw44/Screenshot-2020-12-13-at-8-00-59-AM.png')
-<img src="https://i.ibb.co/NSmWw44/Screenshot-2020-12-13-at-8-00-59-AM.png" alt="Markdown Monster icon">
+<img src="https://i.ibb.co/NSmWw44/Screenshot-2020-12-13-at-8-00-59-AM.png" alt="p1">
 2. Create key paring to the instance
 ![]('https://i.ibb.co/s1QVKHf/Screenshot-2020-12-13-at-8-01-21-AM.png')
-
+<img src="https://i.ibb.co/s1QVKHf/Screenshot-2020-12-13-at-8-01-21-AM.png" alt="p1">
 3. Check for connection TCP22 allowed
 ![]('https://i.ibb.co/D1K2GLn/Screenshot-2020-12-13-at-8-02-16-AM.png')
-
+<img src="https://i.ibb.co/D1K2GLn/Screenshot-2020-12-13-at-8-02-16-AM.png" alt="p1">
 4. chmod 400 Key.pem
 
 5. Connect using ssh -i Key.pem root@42.abc.xyz
 ![]('https://i.ibb.co/3NgR0Kx/Screenshot-2020-12-13-at-8-08-29-AM.png')
-
+<img src="https://i.ibb.co/3NgR0Kx/Screenshot-2020-12-13-at-8-08-29-AM.png" alt="p1">
 
