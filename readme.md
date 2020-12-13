@@ -6,7 +6,7 @@ Although we can use the web console, it is slow and non-responsive compare to cl
 
 1. Create an ECS instance
 ![]('https://i.ibb.co/NSmWw44/Screenshot-2020-12-13-at-8-00-59-AM.png')
-
+<img src="https://i.ibb.co/NSmWw44/Screenshot-2020-12-13-at-8-00-59-AM.png" alt="Markdown Monster icon">
 2. Create key paring to the instance
 ![]('https://i.ibb.co/s1QVKHf/Screenshot-2020-12-13-at-8-01-21-AM.png')
 
