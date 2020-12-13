@@ -1,6 +1,6 @@
 # Alibaba ECS Configuration
 
-Cloud servers uses server linux system for best performance. Which does not have a GUI for easy usage. We will have to use command line to browse and modify files.
+Cloud servers uses LINUX server system for best performance. It does not have a GUI for easy usage and requires command line to browse and modify files.
 One of the most common procedure is to connect to the cloud instance using SSH connection, it requires key pairing for security purpose, since every IPs by default are allowed to connect to the instance.
 Although we can use the web console, it is slow and non-responsive compare to client app.
 
